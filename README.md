@@ -7,7 +7,7 @@
 - ⚙️ My **Ethereum** tech-stack: React, Solidity, Web3.js, Truffle
 - 🔧 My **Tezos** tech-stack: React, SmartPy, ConseilJS, Thanos Wallet
 - 🌱 Learning more about: **Decentralized Finance, Smart Contracts, CS Algorithms**
-- 💬 Ask me about: **Blockchain, Cryptocurrency** 
+- 💬 Ask me about: **Fintech, Blockchain, Cryptocurrency** 
 
 ### Reach out to me:
 
