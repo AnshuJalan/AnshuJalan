@@ -4,14 +4,17 @@ I'm a software developer interested in building decentralized applications and f
 
 ## 🛠️ Tools & Technologies I use
 
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&color=blue) 
-![](https://img.shields.io/badge/Web-MERN%20Stack-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/Algorithmic%20Coding-C++%2C%20Python-informational?style=flat&color=5dc77a)
-![](https://img.shields.io/badge/Learning-Golang-informational?style=flat&color=00b8ae)
-![](https://img.shields.io/badge/Smart%20Contracts-SmartPy-informational?style=flat&color=blue) 
-![](https://img.shields.io/badge/Libraries-Taquito-informational?style=flat&color=brown)
-![](https://img.shields.io/badge/Smart%20Contracts-Solidity-informational?style=flat&color=blue) 
-![](https://img.shields.io/badge/Libraries-Web3.js-informational?style=flat&color=yellow) 
+#### Web
+![](https://img.shields.io/badge/front%20end-React%20JS-informational?style=for-the-badge&color=blue&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Backend-mongodb%2c%20Express-informational?style=for-the-badge&color=blue&logo=mongodb&logoColor=white)
+
+#### Blockchain
+![](https://img.shields.io/badge/Tezos-SmartPy%2c%20Taquito-informational?style=for-the-badge&color=blue&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Ethereum-Solidity%2c%20Web3.JS-informational?style=for-the-badge&color=blue&logo=ethereum&logoColor=white)
+
+#### Generic
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=for-the-badge&color=blue&logo=intellij-idea) 
+![](https://img.shields.io/badge/Algorithmic%20Coding-C++-informational?style=for-the-badge&color=blue&logo=c%2b%2b&logoColor=white)
 
 ## 🖥️ What am I currently doing?
 
@@ -20,7 +23,9 @@ I'm a software developer interested in building decentralized applications and f
 - Researching on Decentralized AI
 - Learning Golang
 
+## 📈 Github Stats
 
+[![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=AnshuJalan&hide=stars,issues&bg_color=007EC6&title_color=ffffff&text_color=ffffff&show_icons=true&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 ## Reach out to me:
 
 <a href="https://www.linkedin.com/in/anshu-jalan-3479a0135/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
