@@ -1,13 +1,34 @@
-## Hey there 👋
+## Hi, I'm Anshu 👋
 
-### I am a Full-Stack Dapp Developer, building decentralized solutions on Ethereum and Tezos. 
+I'm a software developer interested in building decentralized applications and financial products on the Blockchain. I have experience with Tezos and Ethereum.
 
-- 🏫 Final year undergrad in IT.
-- 🔭 I’m currently working as a fellow at <a href="https://tezosindia.foundation/"><strong>Tezos India Foundation</strong></a>
-- ⚙️ My **Ethereum** tech-stack: React, Solidity, Web3.js, Truffle
-- 🔧 My **Tezos** tech-stack: React, SmartPy, ConseilJS, Thanos Wallet
-- 🌱 Learning more about: **Decentralized Finance, Smart Contracts, CS Algorithms**
-- 💬 Ask me about: **Fintech, Blockchain, Cryptocurrency** 
+### 🛠️ Tools & Technologies I use
+---
+
+#### Generic
+
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&color=blue) 
+![](https://img.shields.io/badge/Web-MERN%20Stack-informational?style=flat&color=blue)
+![](https://img.shields.io/badge/Algorithmic%20Coding-C++%2C%20Python-informational?style=flat&color=5dc77a)
+![](https://img.shields.io/badge/Learning-Golang-informational?style=flat&color=00b8ae)
+
+#### Tezos
+![](https://img.shields.io/badge/Smart%20Contracts-SmartPy-informational?style=flat&color=blue) 
+![](https://img.shields.io/badge/Libraries-Taquito-informational?style=flat&color=brown)
+
+#### Ethereum
+![](https://img.shields.io/badge/Smart%20Contracts-Solidity-informational?style=flat&color=blue) 
+![](https://img.shields.io/badge/Libraries-Web3.js-informational?style=flat&color=yellow) 
+
+### 🖥️ What am I currently doing?
+---
+
+- [Tezos India Fellowship](https://twitter.com/hacktezos)
+- [Building a Quadratic Funding based grants platform on Tezos](https://devfolio.co/submissions/tezqf)
+- Researching on Decentralized AI
+- Learning Golang
+
+
 
 ### Reach out to me:
 
