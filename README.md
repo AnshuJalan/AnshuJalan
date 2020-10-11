@@ -3,7 +3,6 @@
 I'm a software developer interested in building decentralized applications and financial products on the Blockchain. I have experience with Tezos and Ethereum.
 
 ## 🛠️ Tools & Technologies I use
----
 
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&color=blue) 
 ![](https://img.shields.io/badge/Web-MERN%20Stack-informational?style=flat&color=blue)
@@ -15,13 +14,11 @@ I'm a software developer interested in building decentralized applications and f
 ![](https://img.shields.io/badge/Libraries-Web3.js-informational?style=flat&color=yellow) 
 
 ## 🖥️ What am I currently doing?
----
 
 - [Tezos India Fellowship](https://twitter.com/hacktezos)
 - [Building a Quadratic Funding based grants platform on Tezos](https://devfolio.co/submissions/tezqf)
 - Researching on Decentralized AI
 - Learning Golang
-
 
 
 ## Reach out to me:
