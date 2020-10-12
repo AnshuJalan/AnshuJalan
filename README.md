@@ -1,5 +1,7 @@
 # Hi, I'm Anshu 👋
 
+![](https://i.ibb.co/LdkSBvT/cover.png)
+
 I'm a software developer interested in building decentralized applications and financial products on the Blockchain. I am currently working as fellow at Tezos India Foundation and as an undergrad student, also pursuing a research project in the field of Decentralized AI.
 
 ## 🛠️ Tools & Technologies I use
